@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malanchristiansen
-- 👩‍💻 am currently learning web development
+- 👩‍💻 I am currently learning web development
 - 📫 You can reach at malanschristiansen@gmail.com
 - 📍 I am based in Sydney, Australia 
 - 🇩🇰 I am from Copenhagen, Denmark 
