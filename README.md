@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @malanchristiansen
 - 👩‍💻 I am currently learning web development
-- 📫 You can reach at malanschristiansen@gmail.com
-- 📍 I am based in Sydney, Australia 
-- 🇩🇰 I am from Copenhagen, Denmark 
+- 📫 Let's get in touch on [LinkedIn](https://www.linkedin.com/in/malanchristiansen/) 
+- 📍 Based in Sydney, Australia 
+- 🇩🇰 From Copenhagen, Denmark 
 
 <!---
 malanchristiansen/malanchristiansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
