@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malanchristiansen
 - 👩‍💻 I am currently learning web development
-- 📫 Let's get in touch on [LinkedIn](https://www.linkedin.com/in/malanchristiansen/) 
+- 📫 Let's get in touch via [LinkedIn](https://www.linkedin.com/in/malanchristiansen/) 
 - 📍 Based in Sydney, Australia 
 - 🇩🇰 From Copenhagen, Denmark 
 
